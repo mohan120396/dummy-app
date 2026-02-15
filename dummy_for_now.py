@@ -108,7 +108,7 @@ st.sidebar.markdown("### Planning Result")
 st.sidebar.success(f"**Required Pallets: {required_pallets}**")
 
 # --- MAIN DASHBOARD ---
-st.markdown("<h1 style='color:white; margin-bottom:0; font-weight:900;'>🚀 PALLET-X COMMAND</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='color:white; margin-bottom:0; font-weight:900;'>PALLET-VOLUME-ANALYZER</h1>", unsafe_allow_html=True)
 st.markdown("<p style='color:#00f2ff; font-size:1.1rem; letter-spacing:0.2rem;'>LANE ANALYTICS & GLOBAL LOGISTICS</p>", unsafe_allow_html=True)
 
 # KPI Metrics Row
